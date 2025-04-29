@@ -5,10 +5,11 @@
 - 📘 I'm currently learning Back-End with Java
 - 🔨 I have experience with Python, HTML, CSS, JavaScript produced during college.
 - 🌎 I live in Brazil - Ceará
+
 ## Contacts:
 
 <div>
-<a href = "guilhermelossio3@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "guilhermelossio3@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/guilhermelossio3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jos%C3%A9-guilherme-rodrigues-l%C3%B3ssio-417237323/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
