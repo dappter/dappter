@@ -11,7 +11,7 @@
 <div>
 <a href = "guilhermelossio3@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/guilhermelossio3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jos%C3%A9-guilherme-rodrigues-l%C3%B3ssio-417237323/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/@ze144p"></a>
+<img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/@ze144p"></img>
 </div>
 
 
