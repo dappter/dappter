@@ -8,12 +8,9 @@
 
 ## Contacts:
 
-<div>
-<a href = "guilhermelossio3@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/guilhermelossio3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/jos%C3%A9-guilherme-rodrigues-l%C3%B3ssio-417237323/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<img href = "https://discord.com/users/514121475402235907" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/@ze144p"></img>
-</div>
-
+[![Email](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermelossio3@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/josé-guilherme-rodrigues-lóssio-417237323/])
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/514121475402235907)
 
 <div>
 <a href="https://github.com/dappter/">
