@@ -103,7 +103,7 @@ mas também adoro entender o funcionamento completo de uma aplicação — do se
 ## 📫 Onde me encontrar
 
 <a href = "mailto:guilhermelossio3@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/guilhermelossio3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-guilherme-rodrigues-l%C3%B3ssio-417237323/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-guilherme-417237323/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/514121475402235907)
 
 ---
