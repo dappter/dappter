@@ -1,110 +1,56 @@
+<div align="center">
 
-# 👋 Hey there! I'm José Guilherme  
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Jos%C3%A9+Guilherme+%F0%9F%91%8B;Back-End+Developer+Intern+%40+Ligeira;Python+%2B+Flask+%2B+React" alt="Typing SVG" />
 
-🎯 **Back-End Developer in progress** — apaixonado por resolver problemas e transformar ideias em código.  
-📚 Estudante de **Sistemas de Informação** na **UNINASSAU**.  
-💡 Explorando o mundo do **Python**, **Java** e **JavaScript**.  
-🌍 Vivendo no **Ceará, Brasil** 
+**🎯 Back-End Developer Intern @ [Ligeira](https://ligeira.net)** · 📚 Sistemas de Informação @ UNINASSAU · 📍 Ceará, Brasil
 
----
-
-## 🚀 Sobre mim
-
-Sou curioso e gosto de aprender criando.  
-No momento, estou focado em aprimorar minhas habilidades no **back-end**,  
-mas também adoro entender o funcionamento completo de uma aplicação — do servidor à interface.
-
-🧩 **Interesses atuais:**
-- APIs REST e boas práticas de arquitetura  
-- Integração entre front e back-end  
-- React Native
-- Frameworks Java  
+</div>
 
 ---
 
-## 🏆 Destaques
+### 🚀 Sobre mim
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dappter&theme=onedark&no-frame=true&no-bg=true&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+Estagiário de back-end, hoje construindo parte do produto da **Ligeira** em produção. Gosto de entender a aplicação de ponta a ponta — do banco de dados à interface — e uso isso pra aprender rápido em cima de problema real, não de tutorial.
+
+<details>
+<summary>🇺🇸 English version</summary>
+<br>
+
+**Back-End Developer Intern @ Ligeira**, Information Systems student at UNINASSAU, based in Ceará, Brazil. I build backend features for a product already in production and enjoy understanding the full stack — from database to UI — learning by shipping real work rather than tutorials.
+
+</details>
 
 ---
 
-## 📊 Estatísticas de Atividade
+### 🏗️ Projetos em destaque
+
+**[Ligeira](https://ligeira.net)** — provedor de internet na região do Cariri (CE).
+Atuo no back-end (Supabase) e no painel administrativo (React + TypeScript SPA); o site público é uma aplicação Vite multi-page em HTML/CSS/JS. Deploy na Vercel, no ar em produção.
+
+**[Planly](https://github.com/dappter/Planly)** ⭐ 6 — organizador de tarefas com Flask + IA (Gemini API), adotado por escolas através de um projeto de extensão da faculdade.
+
+---
+
+### 🧠 Stack
+
+[![My Skills](https://skillicons.dev/icons?i=python,flask,js,ts,react,supabase,postgres,vercel,git)](#)
+
+**🌱 Estudando:** Java
+
+---
+
+### 📊 Atividade
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dappter&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dappter&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribuições%20dos%20Últimos%2012%20Meses" alt="Activity Graph" />
-</div>
-
 ---
-
-## 🔍 Estatísticas Detalhadas
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dappter&theme=tokyonight" alt="Profile Details" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dappter&theme=tokyonight" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dappter&theme=tokyonight" alt="Most Commit Language" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dappter&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dappter&theme=tokyonight&utcOffset=8" alt="Productive Time" />
-</div>
-
----
-
-## 🧠 Tecnologias que uso
-
-[![My Skills](https://skillicons.dev/icons?i=python,java,js,html,css,flask,git,vscode,linux)](#)
-
----
-
-## 🌱 Estudando agora
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,postgres,express)](#)
-
----
-
-## 🏗️ Projetos em Destaque
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/dappter/planly">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dappter&repo=planly&theme=tokyonight" />
-      </a>
-      <br />
-      <b>🧭 Planly</b>  
-      <br />
-      Projeto web para organização inteligente de tarefas com Flask + Gemini API.
-    </td>
-  </tr>
-</table>
-
----
-
-## 📈 Métricas
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=dappter&color=0e75b6&style=for-the-badge&label=VISUALIZAÇÕES)
-![Followers](https://img.shields.io/github/followers/dappter?style=for-the-badge&color=0e75b6&labelColor=black)
-![Stars](https://img.shields.io/github/stars/dappter?style=for-the-badge&color=yellow&labelColor=black)
+### 📫 Vamos trocar uma ideia?
+
+[![LinkedIn](https://img.shields.io/badge/Fale%20comigo%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-guilherme-417237323/)
 
 </div>
-
----
-
-## 📫 Onde me encontrar
-
-<a href = "mailto:guilhermelossio3@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/guilhermelossio3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-guilherme-417237323/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/514121475402235907)
-
----
-
